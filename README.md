@@ -1,7 +1,7 @@
 findWithSelf
 ------------
 
-Get an array of elements based on a selector's test agains the current element and all descendant elements. Similar to `$.fn.andSelf`
+Get an array of elements based on a selector's test against the current element and all descendant elements. Similar to `$.fn.andSelf`
 
 
 ## Usage
