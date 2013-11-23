@@ -1,12 +1,11 @@
 {
-  "name": "findWithSelf",
+  "name": "find-with-self",
   "dependencies": {
     "component/query": "*",
     "component/matches-selector": "*",
     "ForbesLindesay/to-element-array": "*"
   },
   "development": {
-    "component/assert": "*"
   },
   "scripts": [
     "index.js"
