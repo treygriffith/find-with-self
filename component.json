@@ -1,5 +1,6 @@
 {
   "name": "find-with-self",
+  "version": "0.1.0",
   "dependencies": {
     "component/query": "*",
     "component/matches-selector": "*",
